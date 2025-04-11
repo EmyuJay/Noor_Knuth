@@ -23,8 +23,8 @@ class Person {
 public class PersonDemo {
     public static void main(String[] args) {
         // Creating two Person objects
-        Person person1 = new Person("Lorenzo", 17, "Davao");
-        Person person2 = new Person("Vincentino", 18, "Davao");
+        Person person1 = new Person("Cartin", 18, "Davao");
+        Person person2 = new Person("Noor", 19, "Davao");
 
         // Displaying details of each person
         person1.displayDetails();
